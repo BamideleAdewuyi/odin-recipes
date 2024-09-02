@@ -17,3 +17,15 @@
     margin-right: auto;
     width: auto;
 }
+
+
+
+
+.recipe-list-text{
+    padding: 50px;
+    border: 10px solid rgba(218, 20, 20, 0.595);
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
